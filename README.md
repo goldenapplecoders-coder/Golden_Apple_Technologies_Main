@@ -33,7 +33,7 @@ Contact
 - *Phone*: +256743698242 (CEO Icii White)
 - *Phone*: +256 757 864543 (Co-Director Dizzer J)
 - *Phone*: +254 719 637416 (Co-Director Steve Gregory)
-- *Email*: [insert email]
+- *Email*: [goldenapplecoders@gmail.com]
 
 Contributing
 We welcome contributions to our project! If you're interested in contributing, please:
